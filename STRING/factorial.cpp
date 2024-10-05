@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int n=50;
+    int n=8;
     vector<int> ans(1,1);
     int carry=0;
     int res=0;

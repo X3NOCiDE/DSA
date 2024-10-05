@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    string s = "a";
+    string s = "abcdebcd";
     vector<int> v(26,0);
     vector<int>v1(26,0);
 

@@ -7,7 +7,7 @@ int main(){
     vector<bool> check(26,false);
 
     for(int i=0;i<s.size();i++){
-        if(s[i]>='a' && s[i]<='z'){
+        if(s[i]>='a' && s[i]<='z'){ 
         check[s[i] - 'a'] = true;
         }
     }
